@@ -1,0 +1,6 @@
+langgraph==1.1.6
+langchain==1.2.15
+langchain-ollama==1.1.0
+langchain-core>=0.3.0
+pytest>=8.0.0
+pytest-mock>=3.14.0
